@@ -32,3 +32,18 @@ jesli tak to pokaz te wiadomosci i zapytaj czy maja byc tez usuniete
 ## Listy wysłane
 analizuj wysłane wiadomości, sprawdzaj język w jakim wysyłam, jeśli nigdy nie wysłałem np w niemieckim to automatycznie niemieckie wiadomości oznaczaj jako: INNY JĘZYK i PODEJRZANE, jeśli usunę w trakcie 3 sekund to oznacz też jako SPAM
 
+## Temat i Treść
+jeśli wiaodmości o nowym koncie lub potwierdzeniu konta lub newslettera to oznacz domyślnie jako: ACCOUNT
+jeśli tracking z DHL, DPD; itd, z rozpoznawaniem portali sprzedażowych, sklepów, pytaj domene na jakim systemie działa, jeśli to sklep to oznacz, że to od sklepu.
+
+## Domena e-mail
++ sprawdz czy domena jest:
+  + szyfrowana https
+  + ranking domeny
+  + archive
+  + pokaż miniaturke, co jest na tej stronie
+    + analizuj OCR, sprawdź czy nie jest pusta 
+  + sprawdź w portalach społecznościowych, czy są negatywne opisy tej domeny
+  + sprawdć jakie profile osób i firm istnieją i czy są aktualizowane
+  
+  
