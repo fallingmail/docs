@@ -48,4 +48,48 @@ jeśli tracking z DHL, DPD; itd, z rozpoznawaniem portali sprzedażowych, sklep�
   + sprawdź w portalach społecznościowych, czy są negatywne opisy tej domeny
   + sprawdć jakie profile osób i firm istnieją i czy są aktualizowane
   
-  
+## Załączniki
++ faktury zapisuj jako historie plików, grupuj
++ CV
+
+
+## Wiadomości z portali społecznościowych
+wykrywaj powiadomienia i oznacz jako POWIADOMIENIE o WIADOMOŚCI
+
+## Podobne wiadomości
+Wykrywaj podobne wiadomości, jeśli chodzi o strukture, gdzie zmieniają się tylko numery i nazwiska, adresy
+jeśli przychodzą podobbe
+
+
+## Listy 
+Twórz listy z zebranych e-maili
+### numery kont
+### Adresy
+### Osoby
+
+## Statystyki
+Twórz meta dane do informowania o jakości źródła
+### Domeny
++ jak długo ważna jest domena, np czy jest już stara i do kiedy jest przedłużana
++ ile jest warta według kilku różnych wycen
++ webarchive, czy są jakieś dane i jakie strony były kiedyś, zruty ekranu
+
+
+## Start programu
++ przeszukaj z ostatniego roku, wszystkie foldery
++ sprawdz, które wiadomośći zostały uwarygodnione i przeniesione do Archive i które zostały
++ Sprawdz kontakty
++ Stwórz liste nadawców, treści, tematów, załączników, domen i wygeneruj meta dane
+
++ Na podstawie zebranych informacji oznacz na ile wiarygodne są te wiadomości i zasugeruj, które usunąć
+
+## Sugeruj
+
+### Wyrejestrowanie z newslettera
++ zapytaj czy szukasz pracy,
++ czy kupujesz
++ czy sprzedajesz
++ czy prowadzisz działalność
+
+na tej podstawie zostanie podjęta decyzja o usunieciu wiadomości.
+
