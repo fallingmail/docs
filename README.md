@@ -94,3 +94,11 @@ Twórz meta dane do informowania o jakości źródła
 
 na tej podstawie zostanie podjęta decyzja o usunieciu wiadomości.
 
+
+### Integracja
+jeśli masz więcej kont, możesz wykorzystać zebrane dane i kontakty do analizy i usunięcia podobnego spamu na innych kontach
+jeśli masz znajomych, to możesz wedle ich metadanych usuwać swoje emaile
+
+Metadane jako informacje dla innych, czy dana wiadomość jest podejrzana, 
+jeśli inna osoba uwarygodni nadawce to i u mnie nie będzie oznaczona jako PODEJRZANA
+
