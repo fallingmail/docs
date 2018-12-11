@@ -23,7 +23,9 @@ jesli tak to pokaz te wiadomosci i zapytaj czy maja byc tez usuniete
   + przymiotnikow
   
 ## Lista Odbiorców
-+ lista odbiorców traktowana priorytetowo,
++ lista kontaktów traktowana priorytetowo,
++ jeśli kiedyś do kogoś pisałem to dodaj do kontaktów
++ jeśli ktoś z kontaktów pisał, to oznacz jako WIARYGODNA
 + wszyscy nowi nadawcy oznaczeni jako podejrzani
 + gdy wiadomosc nie zostanie usunieta po przeczytanie, tzn po pierwszych 3 sekundach od przeczytania, to jez zdejmowana flaga: PODEJRZANY NADAWCA
 + jesli usunieta w trakcie 3 sekund od pierwszego odkrycia to oznacz nadawce jako: SPAMER
