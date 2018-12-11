@@ -66,6 +66,7 @@ Twórz listy z zebranych e-maili
 ### numery kont
 ### Adresy
 ### Osoby
+### Kont społecznościowych, sklepów, firm, księgarni, itp
 
 ## Statystyki
 Twórz meta dane do informowania o jakości źródła
