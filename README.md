@@ -1,6 +1,4 @@
-# docs
-GaGadki/docs - dokumentacja programu do przegldania wiadomosci
-
+# Dokumentacja programu do szybkiego przeglądania wiadomości E-mail
 
 ## Sposoby przegladania
 na urzadzenia desktop i mobile
